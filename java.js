@@ -1,5 +1,1 @@
-<style>
-
-    console.log("niceeee");
-
-</style>
+console.log("niceeee");
